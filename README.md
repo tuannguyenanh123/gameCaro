@@ -1,3 +1,4 @@
 # Getting Started with game caro
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fceds.edu.vn%2Fthuat-toan-minimax-trong-game-caro%2F&psig=AOvVaw3yT8ZYgXIWmXxoDtbPh8AQ&ust=1650683465807000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDX55_ZpvcCFQAAAAAdAAAAABAD)
+
+![caro](https://user-images.githubusercontent.com/90336362/164589511-7fca9bf5-ce49-4afd-ab47-a6e5bd183223.jpg)
